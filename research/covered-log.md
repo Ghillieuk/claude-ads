@@ -2,6 +2,10 @@
 
 One line per keyword/topic already covered on ghillieuk.com's Field Notes blog, or drafted by this agent. **Always read this file first** before researching a new topic, and append to it after every run.
 
+## OWNER STYLE RULES (apply to ALL content written by this agent)
+
+- Never use double dashes or em dashes (no `--`, no em dash / en dash characters) anywhere: post bodies, metadata, research notes, commit messages. Rephrase with a colon, semicolon, comma, or a new sentence instead. (Owner instruction, 2026-08-04.)
+
 Format: `DATE | KEYWORD/TOPIC | POST PATH OR LIVE URL`
 
 ## Pre-existing on ghillieuk.com (inventoried 2026-08-04, first agent run)
