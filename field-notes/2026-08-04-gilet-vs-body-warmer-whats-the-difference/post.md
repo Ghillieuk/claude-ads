@@ -6,10 +6,10 @@
 - Meta description (max 155 chars): Gilet, body warmer, waistcoat: same garment, different names? A straight answer, plus when you actually need one and how the Torr Gilet fits in.
 - Excerpt: Gilet or body warmer? Ask five people and you'll get five different answers. Here's what the terms actually mean, when the distinction is worth caring about, and where our own Torr Wool Gilet sits in the layering system.
 - Author: Hamish Godman
-- Featured image: CREATIVE NEEDED: lifestyle shot of a man wearing the Torr Wool Gilet over a flannel shirt in a British countryside setting (field gate or dog walk, landscape orientation) — alt text: "Man wearing the Ghillie Torr Wool Gilet over a flannel shirt on a countryside walk"
+- Featured image: CREATIVE NEEDED: lifestyle shot of a man wearing the Torr Wool Gilet over a flannel shirt in a British countryside setting (field gate or dog walk, landscape orientation). Alt text: "Man wearing the Ghillie Torr Wool Gilet over a flannel shirt on a countryside walk"
 - In-body images:
-  1. CREATIVE NEEDED: close-up detail shot of the Torr Wool Gilet's YKK zip pocket and Tech Wool fabric texture — placement: after the "Where the Two Terms Genuinely Diverge" section — alt text: "Detail of the YKK zip pocket and Tech Wool fabric on the Ghillie Torr Wool Gilet"
-  2. CREATIVE NEEDED: the Torr Wool Gilet worn as a mid-layer under an outer jacket — placement: within the "When You Actually Need One" section — alt text: "Torr Wool Gilet worn as a mid-layer under an outer jacket"
+  1. CREATIVE NEEDED: close-up detail shot of the Torr Wool Gilet's YKK zip pocket and Tech Wool fabric texture. Placement: after the "Where the Two Terms Genuinely Diverge" section. Alt text: "Detail of the YKK zip pocket and Tech Wool fabric on the Ghillie Torr Wool Gilet"
+  2. CREATIVE NEEDED: the Torr Wool Gilet worn as a mid-layer under an outer jacket. Placement: within the "When You Actually Need One" section. Alt text: "Torr Wool Gilet worn as a mid-layer under an outer jacket"
 
 ## Body (paste-ready HTML)
 
@@ -19,7 +19,7 @@
 <p>Not officially. Both describe a sleeveless layer that covers the torso and leaves the arms free: no hood, no sleeves, worn over a shirt or midlayer and under a coat if the weather turns. Retailers use the two words more or less interchangeably, and you'll see the same garment listed as a "gilet" on one site and a "body warmer" on another with nothing changed but the label. If someone tells you there's a hard technical line between them, they're rounding up.</p>
 
 <h2>Where the Two Terms Genuinely Diverge</h2>
-<p>That said, the words carry different associations in practice, and those associations are useful shorthand even if they're not rules. "Gilet" tends to get used for a slimmer-cut, smarter piece — something you'd wear into a pub or a farm shop without a second thought, often in wool or a technical fabric with a tailored line. "Body warmer" leans towards the bulkier, heavily padded end of the same category, built primarily for warmth, less concerned with cut, and more at home doing yard work than sitting at a table.</p>
+<p>That said, the words carry different associations in practice, and those associations are useful shorthand even if they're not rules. "Gilet" tends to get used for a slimmer-cut, smarter piece, something you'd wear into a pub or a farm shop without a second thought, often in wool or a technical fabric with a tailored line. "Body warmer" leans towards the bulkier, heavily padded end of the same category, built primarily for warmth, less concerned with cut, and more at home doing yard work than sitting at a table.</p>
 <p>In other words: same garment type, different point on a spectrum from "smart layer" to "insulation first." Which word gets used often just comes down to how the maker positions the piece.</p>
 
 <h2>When You Actually Need One</h2>
@@ -27,7 +27,7 @@
 <p>It also does double duty as a midlayer. Worn over a <a href="https://ghillieuk.com/collections/flannels">flannel shirt</a> and under an outer jacket, it adds a genuine block of warmth without the bulk of a second full layer, useful from October through into spring, not just in the depths of winter.</p>
 
 <h2>Why We Built Ours in Wool</h2>
-<p>Our <a href="https://ghillieuk.com/products/torr-wool-gilet-peat">Torr Wool Gilet</a> sits at the smarter, more considered end of the spectrum on purpose. It's made from a Tech Wool blend we spent two years developing specifically for this piece — wool for the warmth and the way it regulates temperature, blended to hold its shape and stand up to regular wear in a way that pure wool on its own doesn't always manage. Three YKK zip pockets, a brushed cotton inner neck, and a cut smart enough for the pub after the walk, not just the walk itself.</p>
+<p>Our <a href="https://ghillieuk.com/products/torr-wool-gilet-peat">Torr Wool Gilet</a> sits at the smarter, more considered end of the spectrum on purpose. It's made from a Tech Wool blend we spent two years developing specifically for this piece: wool for the warmth and the way it regulates temperature, blended to hold its shape and stand up to regular wear in a way that pure wool on its own doesn't always manage. Three YKK zip pockets, a brushed cotton inner neck, and a cut smart enough for the pub after the walk, not just the walk itself.</p>
 <p>It's dry clean only, which is worth knowing before you buy rather than after; not every wool gilet on the market is, and it's a fair trade-off for the finish and warmth you get in return.</p>
 
 <h2>The Field Notes Verdict</h2>
