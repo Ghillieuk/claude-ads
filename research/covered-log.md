@@ -6,7 +6,7 @@ Format: `DATE | KEYWORD/TOPIC | POST PATH OR LIVE URL`
 
 ## Pre-existing on ghillieuk.com (inventoried 2026-08-04, first agent run)
 
-Live blog was not directly fetchable this run (see run notes in keyword-backlog.md) — inventory built from search-engine indexing of ghillieuk.com. Treat as best-effort; re-verify against a direct fetch of https://ghillieuk.com/blogs/news as soon as it is reachable, since the list below may be incomplete.
+Live blog was not directly fetchable this run (see run notes in keyword-backlog.md); inventory built from search-engine indexing of ghillieuk.com. Treat as best-effort; re-verify against a direct fetch of https://ghillieuk.com/blogs/news as soon as it is reachable, since the list below may be incomplete.
 
 - pre-existing | independent British outdoor clothing brands (roundup) | /blogs/news/independent-british-outdoor-clothing-brands-worth-knowing
 - pre-existing | how to dress for the British countryside | /blogs/news/how-to-dress-for-the-british-countryside
@@ -20,8 +20,8 @@ Live blog was not directly fetchable this run (see run notes in keyword-backlog.
 - pre-existing | Ghillie kit list (what we wear, pair, recommend) | /blogs/news/the-ghillie%C2%AE-kit-list-what-we-wear-pair-and-recommend
 - pre-existing | men's autumn outfit ideas / seasonal outfit guide | /blogs/news/mens-autumn-outfit-ideas-what-to-wear-outdoors-this-season
 - pre-existing | what to wear walking the dog | /blogs/news/what-to-wear-walking-the-dog-a-mens-clothing-guide
-- pre-existing | garment care guide (general) | (title not confirmed — care-label guidance referenced in blog index, not yet matched to a specific slug)
+- pre-existing | garment care guide (general) | (title not confirmed; care-label guidance referenced in blog index, not yet matched to a specific slug)
 
 ## Agent-drafted (this repo)
 
-- 2026-08-04 | gilet vs body warmer — what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
+- 2026-08-04 | gilet vs body warmer, what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
