@@ -25,8 +25,10 @@ Live blog was not directly fetchable this run (see run notes in keyword-backlog.
 - pre-existing | men's autumn outfit ideas / seasonal outfit guide | /blogs/news/mens-autumn-outfit-ideas-what-to-wear-outdoors-this-season
 - pre-existing | what to wear walking the dog | /blogs/news/what-to-wear-walking-the-dog-a-mens-clothing-guide
 - pre-existing | garment care guide (general) | (title not confirmed; care-label guidance referenced in blog index, not yet matched to a specific slug)
+- pre-existing | Kinloch Recycled Fleece Shirt styling guide (found 2026-08-06, was missing from this log) | /blogs/news/from-field-to-fireside-how-to-wear-the-lightweight-kinloch-fleece
 
 ## Agent-drafted (this repo)
 
 - 2026-08-04 | gilet vs body warmer, what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
 - 2026-08-05 | shacket vs overshirt, what's the difference | field-notes/2026-08-05-shacket-vs-overshirt-whats-the-difference/post.md
+- 2026-08-06 | fleece vs wool midlayer, which one should you buy | field-notes/2026-08-06-fleece-vs-wool-midlayer-which-one-should-you-buy/post.md

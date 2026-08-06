@@ -21,3 +21,13 @@ For field-notes/2026-08-05-shacket-vs-overshirt-whats-the-difference/post.md:
 3. **In-body layering shot**: a Ghillie overshirt worn buttoned over a flannel shirt, to illustrate the layering point made in the post.
 
 creative/ still contained no owner-uploaded files as of this run (checked before drafting); all three slots use "CREATIVE NEEDED" placeholders. This is the second consecutive run with no uploads; the three open requests from 2026-08-04 above are still outstanding too.
+
+## Open requests (2026-08-06)
+
+For field-notes/2026-08-06-fleece-vs-wool-midlayer-which-one-should-you-buy/post.md:
+
+1. **Featured/header image**: lifestyle shot of a man wearing the Torr Wool Gilet next to or against a man wearing the Kinloch Recycled Fleece Shirt, both outdoors in the same British countryside setting (same field gate, same light), so the two midlayers read as a genuine side-by-side comparison. Landscape orientation preferred for the blog header slot.
+2. **In-body detail shot**: close-up of the Torr Wool Gilet's Tech Wool fabric texture and YKK zip pocket.
+3. **In-body detail shot**: close-up of the Kinloch Recycled Fleece Shirt's brushed texture, popper cuff and chest pocket.
+
+creative/ still contained no owner-uploaded files as of this run (checked before drafting); all three slots use "CREATIVE NEEDED" placeholders. This is the third consecutive run with no uploads; all six open requests from 2026-08-04 and 2026-08-05 above are still outstanding too.
