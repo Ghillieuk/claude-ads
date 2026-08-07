@@ -25,3 +25,4 @@ Live blog was not directly fetchable this run (see run notes in keyword-backlog.
 ## Agent-drafted (this repo)
 
 - 2026-08-04 | gilet vs body warmer — what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
+- 2026-08-07 | shacket vs overshirt — what's the difference | field-notes/2026-08-07-shacket-vs-overshirt-whats-the-difference/post.md
