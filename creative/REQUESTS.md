@@ -21,3 +21,13 @@ For field-notes/2026-08-07-shacket-vs-overshirt-whats-the-difference/post.md:
 3. **In-body styling shot** — the Hill Loch Shirt worn open and unbuttoned over a plain T-shirt, sleeves rolled, to illustrate the overshirt styling point.
 
 creative/ folder was checked and is still empty (only this REQUESTS.md file present) — no uploaded photography available this run either, so the draft again uses "CREATIVE NEEDED" placeholders throughout.
+
+## Open requests (2026-08-08)
+
+For field-notes/2026-08-08-how-to-wear-a-trucker-cap-a-countryside-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Original Trucker Cap (Lichen Green or Deep Sea) outdoors in a British countryside setting (field, farm track or dog walk), cap worn straight and slightly forward. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Camo Trucker Cap - Bark showing the cotton-canvas front panel, bark camo print and mesh rear.
+3. **In-body pairing shot** — a two-shot or side-by-side showing both the Original Trucker Cap and the Camo Trucker Cap - Bark being worn outdoors, to illustrate the choice between the two.
+
+creative/ folder checked again this run and is still empty — no uploaded photography available, so this draft also uses "CREATIVE NEEDED" placeholders throughout. This is the third consecutive post blocked on real photography — worth flagging to the owner directly rather than just logging it here again.

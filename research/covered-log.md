@@ -22,7 +22,16 @@ Live blog was not directly fetchable this run (see run notes in keyword-backlog.
 - pre-existing | what to wear walking the dog | /blogs/news/what-to-wear-walking-the-dog-a-mens-clothing-guide
 - pre-existing | garment care guide (general) | (title not confirmed — care-label guidance referenced in blog index, not yet matched to a specific slug)
 
+## Pre-existing on ghillieuk.com (newly found 2026-08-08, third agent run)
+
+Found via WebSearch snippets, not a direct fetch (still blocked — see run notes below). These weren't in the inventory as of the 2026-08-07 run, so either they postdate it or were simply missed by search indexing until now. Treat titles/slugs as best-effort until a direct fetch confirms them.
+
+- pre-existing | Kinloch Fleece — how to wear it through the seasons | /blogs/news/from-field-to-fireside-how-to-wear-the-lightweight-kinloch-fleece
+- pre-existing | Brae & Munro Shirts re-mastered (product update / relaunch post) | /blogs/news/brae-munro-shirts-remastered
+- pre-existing | Corrie Down Jacket (product feature, exact post title/slug unconfirmed — jacket is referenced within layering-guide content; may not be a standalone post) | slug unconfirmed
+
 ## Agent-drafted (this repo)
 
 - 2026-08-04 | gilet vs body warmer — what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
 - 2026-08-07 | shacket vs overshirt — what's the difference | field-notes/2026-08-07-shacket-vs-overshirt-whats-the-difference/post.md
+- 2026-08-08 | how to wear a trucker cap (countryside guide, incl. camo-not-tactical framing) | field-notes/2026-08-08-how-to-wear-a-trucker-cap-a-countryside-guide/post.md
