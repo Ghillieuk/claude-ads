@@ -31,3 +31,13 @@ For field-notes/2026-08-08-how-to-wear-a-trucker-cap-a-countryside-guide/post.md
 3. **In-body pairing shot** — a two-shot or side-by-side showing both the Original Trucker Cap and the Camo Trucker Cap - Bark being worn outdoors, to illustrate the choice between the two.
 
 creative/ folder checked again this run and is still empty — no uploaded photography available, so this draft also uses "CREATIVE NEEDED" placeholders throughout. This is the third consecutive post blocked on real photography — worth flagging to the owner directly rather than just logging it here again.
+
+## Open requests (2026-08-09)
+
+For field-notes/2026-08-09-how-to-care-for-a-wool-gilet-a-no-fuss-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man hanging the Torr Wool Gilet (Peat colourway) on a hook or over a chair back after a walk, indoors with natural light. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Torr Wool Gilet's Tech Wool fabric weave and a YKK zip pocket.
+3. **In-body storage shot** — the Torr Wool Gilet on a proper hanger, stored in a wardrobe between wears.
+
+creative/ folder checked again this run and is still empty — no uploaded photography available in four consecutive runs now. Flagging directly: every Field Notes draft so far has shipped with placeholder images only, so none can go live without the owner uploading real photography to creative/ (or confirming existing on-site CDN URLs this agent can reuse). Worth a direct nudge to the owner rather than another log entry if this continues past the next run or two.

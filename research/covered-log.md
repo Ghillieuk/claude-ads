@@ -35,3 +35,4 @@ Found via WebSearch snippets, not a direct fetch (still blocked — see run note
 - 2026-08-04 | gilet vs body warmer — what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
 - 2026-08-07 | shacket vs overshirt — what's the difference | field-notes/2026-08-07-shacket-vs-overshirt-whats-the-difference/post.md
 - 2026-08-08 | how to wear a trucker cap (countryside guide, incl. camo-not-tactical framing) | field-notes/2026-08-08-how-to-wear-a-trucker-cap-a-countryside-guide/post.md
+- 2026-08-09 | how to care for a wool gilet (dry clean only, wool antibacterial, airing/storage guide) | field-notes/2026-08-09-how-to-care-for-a-wool-gilet-a-no-fuss-guide/post.md
