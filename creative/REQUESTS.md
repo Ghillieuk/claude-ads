@@ -41,3 +41,13 @@ For field-notes/2026-08-09-how-to-care-for-a-wool-gilet-a-no-fuss-guide/post.md:
 3. **In-body storage shot** — the Torr Wool Gilet on a proper hanger, stored in a wardrobe between wears.
 
 creative/ folder checked again this run and is still empty — no uploaded photography available in four consecutive runs now. Flagging directly: every Field Notes draft so far has shipped with placeholder images only, so none can go live without the owner uploading real photography to creative/ (or confirming existing on-site CDN URLs this agent can reuse). Worth a direct nudge to the owner rather than another log entry if this continues past the next run or two.
+
+## Open requests (2026-08-10)
+
+For field-notes/2026-08-10-how-to-wash-a-flannel-shirt-the-straightforward-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a Brae Flannel Shirt hanging to dry on an airer or washing line, or freshly ironed on a hanger, in a utility room or home setting with natural light. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the double-brushed cotton flannel weave and check pattern on a Brae or Munro shirt, ideally with the woven care label visible.
+3. **In-body shot** — a flannel shirt turned inside out, mid-fold or on a hanger, to illustrate the inside-out washing/ironing advice.
+
+creative/ folder checked again this run and is still empty — five consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-10). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Repeating the direct flag from last run: this needs the owner to either upload real photography to creative/ or confirm existing on-site CDN image URLs this agent can reuse, or the backlog of unusable drafts will keep growing.
