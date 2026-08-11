@@ -51,3 +51,13 @@ For field-notes/2026-08-10-how-to-wash-a-flannel-shirt-the-straightforward-guide
 3. **In-body shot** — a flannel shirt turned inside out, mid-fold or on a hanger, to illustrate the inside-out washing/ironing advice.
 
 creative/ folder checked again this run and is still empty — five consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-10). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Repeating the direct flag from last run: this needs the owner to either upload real photography to creative/ or confirm existing on-site CDN image URLs this agent can reuse, or the backlog of unusable drafts will keep growing.
+
+## Open requests (2026-08-11)
+
+For field-notes/2026-08-11-what-is-a-midlayer-a-plain-english-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Kinloch Recycled Fleece Shirt unzipped over a T-shirt, outdoors on a countryside walk in changeable autumn weather (overcast sky, field or farm track). Landscape orientation for the blog header slot.
+2. **In-body comparison shot** — flat-lay or hanging shot showing the Kinloch Recycled Fleece Shirt, Crag Quarter Zip Sweater and Torr Wool Gilet together, to illustrate a three-way midlayer comparison.
+3. **In-body detail shot** — close-up of the Kinloch Recycled Fleece Shirt's long front zip and popper cuffs.
+
+creative/ folder checked again this run and is still empty — six consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-11). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is without either real uploaded photography or confirmed on-site CDN image URLs. This is now a standing blocker across the entire backlog of drafts, not a one-off — worth the owner's direct attention rather than another automated flag.

@@ -37,3 +37,4 @@ Found via WebSearch snippets, not a direct fetch (still blocked — see run note
 - 2026-08-08 | how to wear a trucker cap (countryside guide, incl. camo-not-tactical framing) | field-notes/2026-08-08-how-to-wear-a-trucker-cap-a-countryside-guide/post.md
 - 2026-08-09 | how to care for a wool gilet (dry clean only, wool antibacterial, airing/storage guide) | field-notes/2026-08-09-how-to-care-for-a-wool-gilet-a-no-fuss-guide/post.md
 - 2026-08-10 | how to wash a flannel shirt (100% cotton flannel care: 30°C/cold wash, inside out, hang dry, no bleach) | field-notes/2026-08-10-how-to-wash-a-flannel-shirt-the-straightforward-guide/post.md
+- 2026-08-11 | what is a midlayer (plain-English explainer + buying guide comparing Kinloch Fleece, Crag/Brae Quarter Zip Sweater and Torr Wool Gilet) | field-notes/2026-08-11-what-is-a-midlayer-a-plain-english-guide/post.md
