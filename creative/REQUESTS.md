@@ -61,3 +61,13 @@ For field-notes/2026-08-11-what-is-a-midlayer-a-plain-english-guide/post.md:
 3. **In-body detail shot** — close-up of the Kinloch Recycled Fleece Shirt's long front zip and popper cuffs.
 
 creative/ folder checked again this run and is still empty — six consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-11). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is without either real uploaded photography or confirmed on-site CDN image URLs. This is now a standing blocker across the entire backlog of drafts, not a one-off — worth the owner's direct attention rather than another automated flag.
+
+## Open requests (2026-08-12)
+
+For field-notes/2026-08-12-layering-a-t-shirt-under-a-flannel-or-overshirt/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Brae Flannel Shirt open and unbuttoned over a plain Original Long Sleeve Tee, outdoors on an early-autumn morning (farm track, field gate or similar, slightly overcast light). Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of a rolled cuff on the Hill Loch Shirt worn as an overshirt over a plain T-shirt, showing the collar sitting open.
+3. **In-body comparison shot** — flat-lay or hanging shot of the Brae Flannel Shirt, Munro Brushed Cotton Shirt and Hill Loch Shirt together, to illustrate the weight difference between the three.
+
+creative/ folder checked again this run and is still empty — seven consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-12). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is a standing, unresolved blocker across the whole backlog — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these seven drafts can be published as-is.
