@@ -1,0 +1,63 @@
+====================================================
+SHOPIFY-READY — Field Notes blog post
+====================================================
+
+TITLE
+-----
+Layering a T-Shirt Under a Flannel or Overshirt: A Shoulder-Season Guide
+
+URL HANDLE
+----------
+layering-a-t-shirt-under-a-flannel-or-overshirt
+
+SEO TITLE (search engine listing)
+----------------------------------
+T-Shirt Under a Flannel or Overshirt: Shoulder-Season Guide
+
+META DESCRIPTION (search engine listing)
+-----------------------------------------
+Layer a T-shirt under a flannel or overshirt without bulk or a stuck collar. A practical shoulder-season guide from Ghillie Clothing.
+
+EXCERPT (blog summary field)
+-----------------------------
+The shoulder season is the trickiest stretch to dress for — too warm for a midlayer most days, too sharp first thing for a flannel on its own. Here's how to get the T-shirt underneath doing its job properly.
+
+AUTHOR
+------
+Hamish Godman
+
+FEATURED IMAGE — NOT YET SUPPLIED
+----------------------------------
+CREATIVE NEEDED: lifestyle shot of a man wearing the Brae Flannel Shirt open and unbuttoned over a plain Original Long Sleeve Tee, outdoors on an early-autumn morning (farm track, field gate or similar, slightly overcast light), landscape orientation.
+Alt text: "Man layering the Ghillie Brae Flannel Shirt open over an Original Long Sleeve Tee outdoors"
+
+IN-BODY IMAGES — NOT YET SUPPLIED
+------------------------------------
+1. Close-up shot of a rolled cuff on the Hill Loch Shirt worn as an overshirt over a plain T-shirt, showing the collar sitting open — place within the "Getting the Collar and Cuffs Right" section.
+   Alt text: "Close-up of the Ghillie Hill Loch Shirt collar and rolled cuff worn open over a T-shirt"
+2. Flat-lay or hanging comparison of the Brae Flannel Shirt, Munro Brushed Cotton Shirt and Hill Loch Shirt together, to illustrate the weight difference between the three — place within the "Flannel or Overshirt — Which to Reach For" section.
+   Alt text: "Ghillie Brae Flannel Shirt, Munro Brushed Cotton Shirt and Hill Loch Shirt compared side by side"
+
+None of these images exist in creative/ yet — upload real photography before publishing, or the post will need to go live with these slots empty.
+
+====================================================
+BODY HTML — paste into Shopify's "Show HTML" source editor
+====================================================
+<p>The shoulder season is the trickiest stretch of the year to dress for. Cold enough at seven in the morning to want something proper on, warm enough by eleven that the same something is a mistake. A flannel shirt on its own is usually the wrong answer either way — too thin at dawn, too much by midday. The fix isn't a different shirt, it's what goes underneath it.</p>
+
+<h2>Why a T-Shirt, Not a Base Layer</h2>
+<p>Technical base layers are built for a very specific problem — moving hard in genuinely cold conditions — and most shoulder-season days in Britain aren't that. A plain cotton T-shirt does the job better here: light enough to sit under a flannel without adding bulk, and easy to peel the flannel off entirely once the day warms up without looking like you've just taken off a thermal in a pub car park. Our <a href="https://ghillieuk.com/collections/t-shirts">Original Long Sleeve Tee</a> is built for exactly this — soft, premium cotton designed to be worn on its own or layered under a shirt, without the bulk a technical base layer would add.</p>
+
+<h2>Getting the Collar and Cuffs Right</h2>
+<p>The difference between this looking deliberate and looking like you forgot a layer comes down to two details. First, the collar — worn open, a T-shirt collar should sit just inside the flannel's, not poking above it. Second, the cuffs — roll the flannel's sleeves back over the T-shirt's, not the other way round, so you get one clean line at the wrist instead of two competing hems. Neither takes any real effort, but skipping them is the fastest way to look like you're wearing pyjamas under a shirt rather than layering with intent.</p>
+
+<h2>Flannel or Overshirt — Which to Reach For</h2>
+<p>Not every shirt in the range carries the same weight, and that matters more in the shoulder season than at any other point in the year. The <a href="https://ghillieuk.com/products/brae-flannel-shirt">Brae Flannel Shirt</a> is double-brushed cotton — genuinely warm, which makes it the better call for the cold end of the morning or a shirt you'll wear buttoned. The <a href="https://ghillieuk.com/products/munro-brushed-cotton-shirt">Munro Brushed Cotton Shirt</a> sits a notch lighter, a sound middle ground for a mild day where a full flannel would be overkill. The <a href="https://ghillieuk.com/products/hill-loch-shirt">Hill Loch Shirt</a> is built to be worn open as an overshirt rather than buttoned up — the better choice if you want the T-shirt doing more of the visible work and the shirt acting as a windbreak rather than the main event. We've gone into the buttoned-shirt-versus-overshirt distinction properly in <a href="https://ghillieuk.com/blogs/news/shacket-vs-overshirt-whats-the-difference">shacket vs overshirt: what's the difference</a>, if you want the full breakdown.</p>
+
+<h2>Reading the Actual Morning</h2>
+<p>Treat it as a two-decision system rather than one outfit. First, is it a buttoned-up day or an open one — that's temperature, not preference, and it can change between the walk to the car and getting back. Second, which shirt weight matches the coldest part of the day you'll actually be out in, not the average. It's easier to leave a shirt open or push cuffs up if you've overdressed slightly than to manufacture warmth you didn't bring with you.</p>
+
+<h2>The Field Notes Verdict</h2>
+<p>Shoulder-season dressing is less about owning the right single piece and more about running the right combination — a T-shirt that isn't trying to be a base layer, and a shirt weight that matches the coldest hour of your day rather than the warmest. Our full range of shirts is in the <a href="https://ghillieuk.com/collections/shirts">shirts collection</a>, alongside the <a href="https://ghillieuk.com/collections/t-shirts">T-shirts</a> built to go underneath them. For the wider case on choosing a flannel in the first place, see our <a href="https://ghillieuk.com/blogs/news/how-to-choose-a-flannel-shirt-the-mens-buying-guide">flannel shirt buying guide</a>.</p>
+
+NOTE: this post links to "shacket vs overshirt: what's the difference" (our 2026-08-07 draft) — confirm that post is actually live on the blog before publishing this one, or drop/adjust that link.

@@ -1,0 +1,62 @@
+====================================================
+SHOPIFY-READY — Field Notes blog post
+====================================================
+
+TITLE
+-----
+How to Wear a Trucker Cap: A Countryside Guide
+
+URL HANDLE
+----------
+how-to-wear-a-trucker-cap-a-countryside-guide
+
+SEO TITLE (search engine listing)
+----------------------------------
+How to Wear a Trucker Cap: A Countryside Guide
+
+META DESCRIPTION (search engine listing)
+-----------------------------------------
+A trucker cap isn't a fashion prop or tactical kit — here's how to wear one properly outdoors, and where our Original and Camo caps fit in.
+
+EXCERPT (blog summary field)
+-----------------------------
+A trucker cap looks simple enough until you're stood in a field wondering if you've got it on right, or whether the camo one makes you look like you're off somewhere you're not. Here's how we'd wear ours, and why camo on a cap is a countryside colour, not a costume.
+
+AUTHOR
+------
+Hamish Godman
+
+FEATURED IMAGE — NOT YET SUPPLIED
+----------------------------------
+CREATIVE NEEDED: lifestyle shot of a man wearing the Original Trucker Cap (Lichen Green or Deep Sea) outdoors in a British countryside setting — field, farm track or dog walk, cap worn straight and slightly forward, landscape orientation.
+Alt text: "Man wearing the Ghillie Original Trucker Cap outdoors on a countryside walk"
+
+IN-BODY IMAGES — NOT YET SUPPLIED
+------------------------------------
+1. Close-up of the Camo Trucker Cap - Bark showing the cotton-canvas front panel, bark camo print and mesh rear — place within the "Camo Is a Colour, Not a Costume" section.
+   Alt text: "Detail of the bark camo print and mesh rear panel on the Ghillie Camo Trucker Cap"
+2. Side-by-side or two-shot showing both the Original Trucker Cap and the Camo Trucker Cap - Bark being worn outdoors — place within the "Which One's Yours" section.
+   Alt text: "Ghillie Original Trucker Cap and Camo Trucker Cap worn outdoors side by side"
+
+None of these images exist in creative/ yet — upload real photography before publishing, or the post will need to go live with these slots empty.
+
+====================================================
+BODY HTML — paste into Shopify's "Show HTML" source editor
+====================================================
+<p>A trucker cap is about as simple as clothing gets — six panels, a mesh back, a snap fastener — and yet it's easy to get slightly wrong. Worn too far back it looks like an afterthought; worn too far forward it looks like you're trying too hard. Add a camo panel into the mix and there's a second question waiting: does that read as countryside, or does it read as something else entirely. Here's how we'd sort both out.</p>
+
+<h2>Why the Trucker Cap Earns Its Place Outdoors</h2>
+<p>The mesh back is the whole point. Where a flat cap or a beanie traps heat, a trucker cap vents it — useful on a fast dog walk, a warm afternoon on a farm track, or anywhere you're moving enough to work up a bit of heat under the brim. The stiffer front panel holds its shape in a bag or on a hook in a way a soft cap doesn't, and the curved peak actually does the job of keeping low sun and drizzle out of your eyes rather than just looking like it might. It's a genuinely practical piece that happens to have picked up a casual, slightly Americana reputation it doesn't need to live up to out here.</p>
+
+<h2>Getting the Fit Right</h2>
+<p>Sit the cap level, with the front panel resting just above your eyebrows rather than pushed back off your forehead — that's the difference between "wearing a cap" and "wearing a cap well." The snap fastener at the back should leave it snug enough not to lift in a gust off open ground, but not so tight it leaves a mark by the end of the day. Straight on is the safe, correct choice for almost every outdoor context; save the backward or heavily tilted styling for somewhere that isn't a field gate.</p>
+
+<h2>Camo Is a Colour, Not a Costume</h2>
+<p>Camo print gets read two ways: as countryside practicality, or as something borrowed from a much more serious wardrobe. On a cap, it's firmly the former. Our <a href="https://ghillieuk.com/products/camo-trucker-cap-bark">Camo Trucker Cap</a> comes in a bark print — a natural, muted tone built for days on the hill or by the water, not for blending into anything more dramatic than a hedgerow. The cotton-canvas front and breathable mesh rear are the same practical build as the plain versions; the only difference is the print. Worn with the rest of an ordinary outdoor kit — a flannel shirt, a gilet, boots that have seen a field before — it reads exactly as what it is: a sensible cap for being outside, not a statement about anything else.</p>
+
+<h2>Which One's Yours</h2>
+<p>Our <a href="https://ghillieuk.com/products/original-trucker-cap-lichen-green">Original Trucker Cap</a> comes in solid colourways — Lichen Green and a navy Deep Sea — built from an upgraded, durable fabric that stands up to sun bleaching, with a genuinely breathable mesh and a soft, cushioned sweatband so it's comfortable enough to forget you're wearing by the second hour of a walk. It's the one to reach for if you want the practicality without a print doing any of the talking.</p>
+<p>The <a href="https://ghillieuk.com/products/camo-trucker-cap-bark">Camo Trucker Cap - Bark</a> is built the same way underneath — durable cotton-canvas front, high-grade breathable mesh rear, moldable curved peak, adjustable rear fastener for a secure fit — with the bark camo print doing the work described above. Both are built for the same days; picking between them is a question of whether you want the print or not, nothing more technical than that.</p>
+
+<h2>The Field Notes Verdict</h2>
+<p>A trucker cap doesn't need overthinking — level on the head, snug at the back, mesh doing its job. Camo doesn't need overthinking either, on a cap it's a countryside colour like any other, not a costume borrowed from somewhere more serious. Both caps sit in our <a href="https://ghillieuk.com/collections/headwear">headwear collection</a>, and either one pairs naturally with the rest of a working outdoor kit — see our notes on <a href="https://ghillieuk.com/blogs/news/what-to-wear-walking-the-dog-a-mens-clothing-guide">what to wear walking the dog</a> for where a cap fits into the wider picture.</p>
