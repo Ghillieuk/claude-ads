@@ -1,0 +1,37 @@
+# How to Wash a Cotton Twill Shirt: The Hill Loch Care Guide
+- Target keyword: how to wash a cotton twill shirt (secondary: cotton twill shirt care, Hill Loch Shirt care, how to wash an overshirt UK, cotton elastane shirt care)
+- Why this gap: Generic cotton-twill care content exists on the wider menswear web (Bleak Ridge runs a dedicated "Ultimate Guide to Washing and Maintaining Cotton Twill Shirts"), proving real search demand, but none of the five pinned competitors run twill-specific care content — Fjällräven's care guidance is G1000-wax-focused, Orvis and Schöffel's care content skews general laundry advice, and Fera/Fortis Clothing have no dedicated care content at all. Ghillie's own "From Field to Fabric: The Making of the Hill Loch Shirt" is a brand-story piece about why the fabric was chosen, not a how-to wash guide, and the existing flannel-shirt care post covers a genuinely different fabric (100% cotton double-brushed flannel, no elastane) — the Hill Loch's 97% organic cotton/3% elastane twill needs its own advice, chiefly around protecting the elastane from heat, which the flannel post never had to address.
+- URL handle: how-to-wash-a-cotton-twill-shirt-the-hill-loch-care-guide
+- SEO title (max 60 chars): How to Wash a Cotton Twill Shirt: The Hill Loch Care Guide
+- Meta description (max 155 chars): Cold wash, hang dry, mind the elastane — how to wash the Hill Loch Shirt's cotton twill properly, and why it isn't the same routine as a flannel.
+- Excerpt: The Hill Loch Shirt looks like it should be washed the same way as a flannel. It shouldn't — there's 3% elastane in that twill, and treating it like a flannel shirt will shorten its life. Here's the actual routine.
+- Author: Hamish Godman
+- Featured image: CREATIVE NEEDED: lifestyle shot of a Hill Loch Shirt hanging to dry on a hanger or airer, indoors with natural light, showing the peached matte cotton twill finish — landscape orientation for the blog header slot — alt text: "Ghillie Hill Loch Shirt hung up to dry after washing"
+- In-body images:
+  1. CREATIVE NEEDED: close-up detail shot of the Hill Loch Shirt's cotton twill weave and peached matte finish, ideally with the woven care label visible — placement: within the "What's Actually in the Fabric" section — alt text: "Close-up of the peached cotton twill weave on a Ghillie Hill Loch Shirt"
+  2. CREATIVE NEEDED: the Hill Loch Shirt turned inside out, mid-fold or on a hanger, to illustrate the inside-out washing point — placement: within the "Washing It Properly" section — alt text: "Ghillie Hill Loch Shirt turned inside out ready for washing"
+
+## Body (paste-ready HTML)
+
+<p>The Hill Loch Shirt looks like it should go in the wash the same way as a flannel — it's cut from a similar weight of cotton, worn the same way, and lives in the same drawer. It shouldn't. There's 3% elastane woven into that twill, and a routine built for 100% cotton flannel will shorten the life of the stretch a lot faster than it needs to. Here's the actual routine, not the flannel one.</p>
+
+<h2>What's Actually in the Fabric</h2>
+<p>Our <a href="https://ghillieuk.com/products/hill-loch-shirt">Hill Loch Shirt</a> is cut from a 220gsm cotton twill — 97% organic cotton, 3% elastane — with a peached, matte finish that sits between a poplin and a canvas in feel. That's a different construction to the <a href="https://ghillieuk.com/products/brae-flannel-shirt">Brae Flannel Shirt</a>, which is a double-brushed 100% cotton flannel with no stretch fibre at all. The elastane is the whole reason the care routine here is worth a separate guide rather than reusing our <a href="https://ghillieuk.com/blogs/news/how-to-wash-a-flannel-shirt-the-straightforward-guide">flannel shirt care guide</a> — elastane doesn't tolerate high heat the way plain cotton does, so a couple of the flannel routine's habits need adjusting.</p>
+
+<h2>The Short Version</h2>
+<p>Wash at 30°C or on a cold cycle. Turn it inside out first. Skip the bleach and anything harsh. Hang it to dry rather than tumbling it, and keep an iron off it if you can avoid one. That's most of it — the difference from a flannel shirt is really just about protecting the elastane, which shows up mainly in how you dry it rather than how you wash it.</p>
+
+<h2>Washing It Properly</h2>
+<p>A 30°C wash or a cold cycle protects both the colour and the elastane — hot water is harder on stretch fibres than it is on plain cotton, so it's worth being stricter about water temperature here than you might be with an ordinary shirt. Turn it inside out before it goes in, so the drum agitates against the plain side of the fabric rather than the peached face. Wash with similar colours, keep the load loose, and leave out the bleach and harsh detergents — a plain, gentle liquid detergent is all this fabric needs. As with any cotton garment, allow for a small amount of shrinkage, typically 1-2%, in the first few washes; it's factored into the sizing already.</p>
+
+<h2>Drying and Ironing</h2>
+<p>Hang it to dry rather than reaching for the tumble dryer. This matters more here than it does for the flannel: sustained heat is what degrades elastane over time, and a tumble dryer is the single fastest way to shorten how long the stretch lasts. If it needs ironing, use the cotton setting but keep the iron moving rather than pressing and holding, and avoid direct heat on any seam where the elastane sits close to the surface. Cotton twill genuinely improves with wear and washing — it's meant to soften and relax into shape over time, so there's no need to iron out every crease chasing a stiffer, newer look.</p>
+
+<h2>Between Washes</h2>
+<p>Twill is a tighter, denser weave than flannel, which means it shows dust and light marks from a day outdoors less readily — you can usually get more wear between washes than you'd expect from looking at it after a walk. A soft brush will lift dry mud before it's had a chance to work into the weave, and it's worth blotting rather than rubbing at any spill and letting a proper wash deal with the rest. Beyond that, wash it when it actually needs it rather than on a fixed schedule — over-washing does more to wear out the elastane than a muddy field ever will.</p>
+
+<h2>Storing It</h2>
+<p>Hang it on a proper hanger rather than folding it into a drawer, so the collar and shoulders keep their shape between wears. Give it room either side rather than crushing it against heavier coats — a twill this dense holds a crease if it's left balled up, and a bit of space in the wardrobe means it comes out ready to wear rather than needing a press first.</p>
+
+<h2>The Field Notes Verdict</h2>
+<p>Treat the Hill Loch Shirt like a flannel and you'll get away with it for a while — but the elastane is doing real work in that twill, and heat is what wears it out fastest. Cold wash, hang dry, and go easy with the iron, and it'll hold its shape and its stretch for years rather than one season. For the story behind why we built it this way, see <a href="https://ghillieuk.com/blogs/news/from-field-to-fabric-the-making-of-the-hill-loch-shirt">From Field to Fabric: The Making of the Hill Loch Shirt</a>, and for how it compares to a flannel day-to-day, our notes on <a href="https://ghillieuk.com/blogs/news/shacket-vs-overshirt-whats-the-difference">shacket vs overshirt</a>. The full shirt range is in our <a href="https://ghillieuk.com/collections/shirts">shirts collection</a>.</p>

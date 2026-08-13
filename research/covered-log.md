@@ -30,6 +30,12 @@ Found via WebSearch snippets, not a direct fetch (still blocked — see run note
 - pre-existing | Brae & Munro Shirts re-mastered (product update / relaunch post) | /blogs/news/brae-munro-shirts-remastered
 - pre-existing | Corrie Down Jacket (product feature, exact post title/slug unconfirmed — jacket is referenced within layering-guide content; may not be a standalone post) | slug unconfirmed
 
+## Pre-existing on ghillieuk.com (newly found 2026-08-13, eighth agent run)
+
+Found via WebSearch snippet while researching Hill Loch Shirt fabric details, not a direct fetch (still blocked). Confirmed slug via multiple snippet hits.
+
+- pre-existing | Hill Loch Shirt — From Field to Fabric (brand-story/making-of piece: why cotton twill was chosen, design philosophy, earth-tone colourway story) | /blogs/news/from-field-to-fabric-the-making-of-the-hill-loch-shirt
+
 ## Agent-drafted (this repo)
 
 - 2026-08-04 | gilet vs body warmer — what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
@@ -39,3 +45,4 @@ Found via WebSearch snippets, not a direct fetch (still blocked — see run note
 - 2026-08-10 | how to wash a flannel shirt (100% cotton flannel care: 30°C/cold wash, inside out, hang dry, no bleach) | field-notes/2026-08-10-how-to-wash-a-flannel-shirt-the-straightforward-guide/post.md
 - 2026-08-11 | what is a midlayer (plain-English explainer + buying guide comparing Kinloch Fleece, Crag/Brae Quarter Zip Sweater and Torr Wool Gilet) | field-notes/2026-08-11-what-is-a-midlayer-a-plain-english-guide/post.md
 - 2026-08-12 | layering a T-shirt under a flannel or overshirt for shoulder-season dressing (Original Long Sleeve Tee under Brae Flannel Shirt / Munro Brushed Cotton Shirt / Hill Loch Shirt, collar-and-cuff mechanics, weight-matching by time of day) | field-notes/2026-08-12-layering-a-t-shirt-under-a-flannel-or-overshirt/post.md
+- 2026-08-13 | how to wash a cotton twill shirt / Hill Loch Shirt care (97% organic cotton/3% elastane, 220gsm peached matte twill, 30°C/cold wash, no bleach, hang dry, protect elastane from heat — distinct routine from the 100% cotton flannel care post) | field-notes/2026-08-13-how-to-wash-a-cotton-twill-shirt-the-hill-loch-care-guide/post.md

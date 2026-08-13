@@ -71,3 +71,13 @@ For field-notes/2026-08-12-layering-a-t-shirt-under-a-flannel-or-overshirt/post.
 3. **In-body comparison shot** — flat-lay or hanging shot of the Brae Flannel Shirt, Munro Brushed Cotton Shirt and Hill Loch Shirt together, to illustrate the weight difference between the three.
 
 creative/ folder checked again this run and is still empty — seven consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-12). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is a standing, unresolved blocker across the whole backlog — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these seven drafts can be published as-is.
+
+## Open requests (2026-08-13)
+
+For field-notes/2026-08-13-how-to-wash-a-cotton-twill-shirt-the-hill-loch-care-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a Hill Loch Shirt hanging to dry on a hanger or airer, indoors with natural light, showing the peached matte cotton twill finish. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Hill Loch Shirt's cotton twill weave and peached matte finish, ideally with the woven care label visible.
+3. **In-body shot** — the Hill Loch Shirt turned inside out, mid-fold or on a hanger, to illustrate the inside-out washing point.
+
+creative/ folder checked again this run and is still empty — eight consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-13). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is now a well-established standing blocker across the entire backlog of eight drafts — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these can go live.
