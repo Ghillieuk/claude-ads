@@ -81,3 +81,13 @@ For field-notes/2026-08-13-how-to-wash-a-cotton-twill-shirt-the-hill-loch-care-g
 3. **In-body shot** — the Hill Loch Shirt turned inside out, mid-fold or on a hanger, to illustrate the inside-out washing point.
 
 creative/ folder checked again this run and is still empty — eight consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-13). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is now a well-established standing blocker across the entire backlog of eight drafts — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these can go live.
+
+## Open requests (2026-08-14)
+
+For field-notes/2026-08-14-how-to-choose-an-overshirt-a-buying-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Hill Loch Shirt unbuttoned over a T-shirt, outdoors in a British countryside setting (farm gate, field track or similar). Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Hill Loch Shirt's zip-and-popper chest pocket, showing the cotton twill weave.
+3. **In-body comparison shot** — flat-lay or hanging shot of the Hill Loch Shirt, Brae Flannel Shirt and Munro Brushed Cotton Shirt together, to illustrate the fit/weight comparison the post walks through.
+
+creative/ folder checked again this run and is still empty — nine consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-14). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is a long-standing, unresolved blocker across the whole backlog of nine drafts — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these can go live.
