@@ -91,3 +91,13 @@ For field-notes/2026-08-14-how-to-choose-an-overshirt-a-buying-guide/post.md:
 3. **In-body comparison shot** — flat-lay or hanging shot of the Hill Loch Shirt, Brae Flannel Shirt and Munro Brushed Cotton Shirt together, to illustrate the fit/weight comparison the post walks through.
 
 creative/ folder checked again this run and is still empty — nine consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-14). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is a long-standing, unresolved blocker across the whole backlog of nine drafts — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these can go live.
+
+## Open requests (2026-08-15)
+
+For field-notes/2026-08-15-beanie-vs-trucker-cap-which-to-wear-and-when/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Highlander Beanie (Charcoal Grey) outdoors in a British countryside setting on a cold, overcast day (field, farm track or dog walk). Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Highlander Beanie's ribbed knit and turned-up brim, ideally pulled down over the ears.
+3. **In-body comparison shot** — side-by-side or flat-lay of the Highlander Beanie next to the Original Trucker Cap, to illustrate the choice between them.
+
+creative/ folder checked again this run and is still empty — ten consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-15). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is now a long-standing, unresolved blocker across the entire backlog of ten drafts — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these can go live. This is the single biggest thing blocking the whole Field Notes pipeline from actually publishing.
