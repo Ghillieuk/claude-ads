@@ -101,3 +101,13 @@ For field-notes/2026-08-15-beanie-vs-trucker-cap-which-to-wear-and-when/post.md:
 3. **In-body comparison shot** — side-by-side or flat-lay of the Highlander Beanie next to the Original Trucker Cap, to illustrate the choice between them.
 
 creative/ folder checked again this run and is still empty — ten consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-15). Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. This is now a long-standing, unresolved blocker across the entire backlog of ten drafts — the owner needs to either upload real photography to creative/ or confirm reusable on-site CDN image URLs before any of these can go live. This is the single biggest thing blocking the whole Field Notes pipeline from actually publishing.
+
+## Open requests (2026-08-16)
+
+For field-notes/2026-08-16-how-to-care-for-a-wool-beanie-a-no-fuss-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of the Highlander Beanie (Charcoal Grey) laid flat on a towel mid-hand-wash, or drying flat on a towel indoors with natural light. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Highlander Beanie's ribbed knit and turned-up brim, showing the wool-blend texture.
+3. **In-body storage shot** — the Highlander Beanie folded flat on a shelf or in a drawer, not stretched over a hook or hanger, to illustrate the anti-stretch storage advice.
+
+creative/ folder checked again this run and is still empty — **eleven consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-16)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Eleven drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).

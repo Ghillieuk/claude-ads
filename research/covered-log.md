@@ -36,6 +36,10 @@ Found via WebSearch snippet while researching Hill Loch Shirt fabric details, no
 
 - pre-existing | Hill Loch Shirt — From Field to Fabric (brand-story/making-of piece: why cotton twill was chosen, design philosophy, earth-tone colourway story) | /blogs/news/from-field-to-fabric-the-making-of-the-hill-loch-shirt
 
+## Pre-existing on ghillieuk.com (newly found 2026-08-16, eleventh agent run)
+
+Found via WebSearch snippets, not a direct fetch (still blocked). Newly discovered live product not previously logged: Trail Boot Socks 3-Pack - Cushioned (/products/trail-socks-multi-pack), a padded/compression everyday sock, one size UK 8-12 — sits in the accessories collection (/collections/accessories), which otherwise still has zero standalone Field Notes content. Not used as this run's topic (single-SKU sock buying-guide territory is heavily saturated by dedicated sock brands — Bridgedale, 1000 Mile, Smartwool — and winnability looked weak versus the beanie-care gap), but logged here as a real product for future reference. Added to keyword-backlog.md as an unscored candidate.
+
 ## Agent-drafted (this repo)
 
 - 2026-08-04 | gilet vs body warmer — what's the difference | field-notes/2026-08-04-gilet-vs-body-warmer-whats-the-difference/post.md
@@ -48,6 +52,7 @@ Found via WebSearch snippet while researching Hill Loch Shirt fabric details, no
 - 2026-08-13 | how to wash a cotton twill shirt / Hill Loch Shirt care (97% organic cotton/3% elastane, 220gsm peached matte twill, 30°C/cold wash, no bleach, hang dry, protect elastane from heat — distinct routine from the 100% cotton flannel care post) | field-notes/2026-08-13-how-to-wash-a-cotton-twill-shirt-the-hill-loch-care-guide/post.md
 - 2026-08-14 | how to choose an overshirt — buying guide covering fit, fabric weight and fastening, comparing Hill Loch Shirt (medium-weight cotton twill, zip+popper chest pocket), Brae Flannel Shirt (heavier double-brushed 100% cotton flannel, hidden collar button, sunglass-holder pockets) and Munro Brushed Cotton Shirt (closer fit, utility pockets with inverted pleats, microfibre lens-cleaning hem lining) | field-notes/2026-08-14-how-to-choose-an-overshirt-a-buying-guide/post.md
 - 2026-08-15 | beanie vs trucker cap — which to wear and when, weather- and activity-led comparison of the Highlander Beanie (wool-blend ribbed knit, charcoal grey, full ear coverage) against the Original and Camo Trucker Caps (mesh-back ventilation, sun/light-drizzle shading), companion piece to the 2026-08-08 trucker cap guide | field-notes/2026-08-15-beanie-vs-trucker-cap-which-to-wear-and-when/post.md
+- 2026-08-16 | how to care for a wool beanie (Highlander Beanie wool-blend knit care: hand wash cold with wool detergent, no tumble dry, dry flat, fold rather than hang to avoid stretching — fourth entry in the care-guide series after wool gilet, flannel shirt and cotton twill shirt) | field-notes/2026-08-16-how-to-care-for-a-wool-beanie-a-no-fuss-guide/post.md
 
 ## Pre-existing on ghillieuk.com (newly found 2026-08-15, tenth agent run)
 
