@@ -111,3 +111,13 @@ For field-notes/2026-08-16-how-to-care-for-a-wool-beanie-a-no-fuss-guide/post.md
 3. **In-body storage shot** — the Highlander Beanie folded flat on a shelf or in a drawer, not stretched over a hook or hanger, to illustrate the anti-stretch storage advice.
 
 creative/ folder checked again this run and is still empty — **eleven consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-16)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Eleven drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
+
+## Open requests (2026-08-17)
+
+For field-notes/2026-08-17-dog-walking-socks-what-to-wear-and-how-many-pairs/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man pulling on boots over dog-walking socks at a car boot or back door, dog waiting nearby, muddy field or farm track visible in the background. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Trail Boot Socks 3-Pack showing the padded heel/toe and ribbed ankle.
+3. **In-body rotation shot** — three pairs of Trail Boot Socks laid out or hung to dry, to illustrate the sock-rotation advice in the post.
+
+creative/ folder checked again this run and is still empty — **twelve consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-17)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Twelve drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
