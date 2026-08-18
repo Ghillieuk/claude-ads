@@ -121,3 +121,13 @@ For field-notes/2026-08-17-dog-walking-socks-what-to-wear-and-how-many-pairs/pos
 3. **In-body rotation shot** — three pairs of Trail Boot Socks laid out or hung to dry, to illustrate the sock-rotation advice in the post.
 
 creative/ folder checked again this run and is still empty — **twelve consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-17)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Twelve drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
+
+## Open requests (2026-08-18)
+
+For field-notes/2026-08-18-flannel-shirt-outfits-three-ways-to-wear-yours-this-autumn/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Brae Flannel Shirt buttoned up with jeans and boots, outdoors on a crisp autumn morning (farm track, field gate or similar). Landscape orientation for the blog header slot.
+2. **In-body detail shot** — the Brae Flannel Shirt worn open over the Original Long Sleeve Tee, sleeves rolled back over the tee's cuffs, to illustrate Formula Two.
+3. **In-body detail shot** — the Munro Brushed Cotton Shirt worn open as an outer layer over a plain tee, nothing on top of it, to illustrate Formula Three.
+
+creative/ folder checked again this run and is still empty — **thirteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-18)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Thirteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
