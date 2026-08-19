@@ -131,3 +131,13 @@ For field-notes/2026-08-18-flannel-shirt-outfits-three-ways-to-wear-yours-this-a
 3. **In-body detail shot** — the Munro Brushed Cotton Shirt worn open as an outer layer over a plain tee, nothing on top of it, to illustrate Formula Three.
 
 creative/ folder checked again this run and is still empty — **thirteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-18)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Thirteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
+
+## Open requests (2026-08-19)
+
+For field-notes/2026-08-19-how-to-wash-a-down-jacket-the-corrie-care-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of the Corrie Down Jacket (Dark Forest Green or Deep Blue) hanging up to dry indoors after a wash, natural light, showing the shell fabric and loft of the fill. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Corrie Down Jacket's baffled shell fabric, showing the water-repellent finish.
+3. **In-body drying shot** — the Corrie Down Jacket laid flat with a couple of tennis balls or dryer balls beside it, or a shot suggesting mid-tumble-dry, to illustrate the drying step.
+
+creative/ folder checked again this run and is still empty — **fourteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-19)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Fourteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
