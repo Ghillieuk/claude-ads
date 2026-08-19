@@ -60,3 +60,58 @@ Found via WebSearch snippets, not a direct fetch (still blocked). Newly discover
 ## Pre-existing on ghillieuk.com (newly found 2026-08-15, tenth agent run)
 
 Found via WebSearch snippets, not a direct fetch (still blocked). Newly discovered live product not previously logged: Highlander Beanie - Charcoal Grey (/products/highlander-beanie) — a wool-blend ribbed knit beanie in the headwear range alongside the two trucker caps. No standalone Field Notes post exists for it yet on the live blog, so today's draft fills that gap. Also reconfirmed this run: the Corrie Down Jacket now has two apparently-live colourway pages (Deep Blue, Dark Forest Green) alongside the older "-pre-order" slug, and "The Complete Guide to Outdoor Layering for Men" already explicitly walks through the flannel → gilet → Corrie Down Jacket layering sequence — so backlog item 44 (a dedicated Corrie layering post) is confirmed cannibalising and should be retired, not pursued as written.
+
+## VERIFIED full inventory (2026-08-19 re-check — first authoritative fetch)
+
+Direct fetch of https://ghillieuk.com/blogs/news and https://ghillieuk.com/sitemap.xml is **still EGRESS_BLOCKED** (unchanged, 15th consecutive run). However, the live blog was read authoritatively for the first time via the **Shopify Admin API** (`blogs`/`articles` GraphQL query through the Shopify connector) — this bypasses the need for a public fetch entirely and should be the standard route from now on instead of WebSearch snippets.
+
+**Use this route in future runs.** GraphQL: `blogs(first:10){nodes{handle title articlesCount{count}}}` plus `articles(first:50, sortKey:PUBLISHED_AT, reverse:true){nodes{title handle isPublished publishedAt updatedAt tags}}`.
+
+Blog: **"Field Notes"**, handle `news`, **25 articles, all `isPublished: true`**, none future-dated. Newest live post: **2026-08-04**.
+
+Full live list, newest first (title | slug | publishedAt):
+
+- The Wool Gilet Guide: What to Look For and Why It Beats a Fleece. | /blogs/news/the-wool-gilet-guide-what-to-look-for-and-why-it-beats-a-fleece | 2026-08-04 — **NOT previously logged**
+- Men's Autumn Outfit Ideas: What to Wear Outdoors This Season | /blogs/news/mens-autumn-outfit-ideas-what-to-wear-outdoors-this-season | 2026-05-28
+- What to Wear Walking the Dog: A Men's Clothing Guide | /blogs/news/what-to-wear-walking-the-dog-a-mens-clothing-guide | 2026-05-20
+- How to Wear a Check Shirt: The Outdoor Man's Styling Guide | /blogs/news/how-to-wear-a-check-shirt-the-outdoor-mans-styling-guide | 2026-05-05 — **NOT previously logged**
+- Independent British Outdoor Clothing Brands Worth Knowing | /blogs/news/independent-british-outdoor-clothing-brands-worth-knowing | 2026-05-04
+- How to Dress for the British Countryside | /blogs/news/how-to-dress-for-the-british-countryside | 2026-05-02
+- How to Choose a Flannel Shirt: The Men's Buying Guide | /blogs/news/how-to-choose-a-flannel-shirt-the-mens-buying-guide | 2026-05-01
+- The Outdoor Capsule Wardrobe for Men | /blogs/news/the-outdoor-capsule-wardrobe-for-men | 2026-04-30
+- What to Wear Fly Fishing: The Complete Clothing Guide for UK Rivers | /blogs/news/what-to-wear-fly-fishing-the-complete-clothing-guide-for-uk-rivers | 2026-04-29
+- The Outdoor Gift Guide for Men Who Actually Go Outside | /blogs/news/the-outdoor-gift-guide-for-men-who-actually-go-outside | 2026-04-23 — **NOT previously logged**
+- The Complete Guide to Outdoor Layering for Men | /blogs/news/the-complete-guide-to-outdoor-layering-for-men | 2026-04-22
+- How to Style the Torr Wool Gilet & Flannel Shirts - Four Ways to Wear It | /blogs/news/how-to-style-the-torr-wool-gilet-flannel-shirts-four-ways-to-wear-it | 2026-04-18 — **NOT previously logged**
+- An alternative to polyester gilets - The Torr Wool Gilet is the perfect balance of performance, comfort and style. | /blogs/news/an-alternative-to-polyester-gilets-the-torr-wool-gilet-is-the-perfect-balance-of-performance-comfort-and-style | 2026-04-17 — **NOT previously logged**
+- The Wool Gilet: A Year-Round Outdoor Essential | /blogs/news/the-wool-gilet-a-year-round-outdoor-essential | 2026-04-16
+- A Guide to Materials & Care: How to Look After Your Ghillie Clothing | /blogs/news/a-guide-to-materials-care-how-to-look-after-your-ghillie-clothing | 2026-04-15 — **resolves the "garment care guide (general) — slug not confirmed" entry from the 2026-08-04 inventory**
+- Built for the Cold: Why the Corrie Down Jacket Is the Winter Essential | /blogs/news/built-for-the-cold-why-the-corrie-down-jacket-is-the-winter-essential | 2025-11-24 — **resolves the "Corrie Down Jacket — slug unconfirmed, may not be a standalone post" entry from the 2026-08-08 run: it IS a standalone post**
+- From Field to Fireside: How to Wear the Lightweight Kinloch Fleece | /blogs/news/from-field-to-fireside-how-to-wear-the-lightweight-kinloch-fleece | 2025-11-13
+- The Return of Two Ghillie Icons: The Re-Mastered Brae & Munro Shirts | /blogs/news/brae-munro-shirts-remastered | 2025-11-10
+- A Field Guide to Autumn Flannel: Why a Brae Flannel Shirt Should Be in Your Kit | /blogs/news/a-field-guide-to-autumn-flannel-why-a-brae-flannel-shirt-should-be-in-your-kit | 2025-11-06
+- The Ghillie® Kit List: What We Wear, Pair, and Recommend | /blogs/news/the-ghillie%C2%AE-kit-list-what-we-wear-pair-and-recommend | 2025-08-13
+- How to Care for Your Ghillie® Gear (and Make It Last a Lifetime) | /blogs/news/how-to-care-for-your-ghillie%C2%AE-gear-and-make-it-last-a-lifetime | 2025-08-13 — **NOT previously logged (second general care-guide hub)**
+- From Field to Fabric: The Making of the Hill Loch Shirt | /blogs/news/from-field-to-fabric-the-making-of-the-hill-loch-shirt | 2025-08-13
+- Why Timeless Outdoor Clothing Matters | Ghillie® | /blogs/news/timeless-outdoor-clothing-vs-fast-fashion | 2025-07-02 — **NOT previously logged**
+- What Is a Ghillie? The Meaning Behind Our Name | /blogs/news/what-does-ghillie-mean | 2025-07-02
+- Why I Started Ghillie® | Timeless Outdoor Clothing Brand | /blogs/news/why-i-started-ghillie | 2025-07-01 — **NOT previously logged**
+
+### Sitemap
+
+`/sitemap.xml` itself could not be fetched (same egress block), but it is Shopify's auto-generated index, so `sitemap_blogs_1.xml` carries the `news` blog and its articles. All 25 articles are `isPublished: true` with past `publishedAt` dates and none are scheduled, so all 25 should be present in the blog sitemap. Nothing is being withheld from it by publication state.
+
+### Cannibalisation flags raised by this inventory
+
+The eight newly-found live posts change the picture for several drafts and backlog items. Review before publishing:
+
+- **A gift guide already exists live** (`/blogs/news/the-outdoor-gift-guide-for-men-who-actually-go-outside`, Apr 2026). Backlog item 72 (Christmas gift guide) was the top-priority next candidate — it is still viable but must be re-scoped as a Christmas-specific angle that differentiates from the existing year-round guide, not drafted fresh.
+- **`how-to-wear-a-check-shirt-the-outdoor-mans-styling-guide` (May 2026)** sits very close to the 2026-08-18 draft *flannel shirt outfits — three ways to wear yours this autumn*. Check-shirt and flannel-shirt styling are near-identical search territory. Review the draft against the live post before publishing.
+- **`how-to-style-the-torr-wool-gilet-flannel-shirts-four-ways-to-wear-it` (Apr 2026)** independently confirms the standing "wool gilet outfit-formula content stays rejected" rule — and for a stronger reason than the one on file (it isn't only Schöffel owning the territory; Ghillie has already published this exact piece).
+- **Wool gilet territory is now four live posts deep** (year-round essential, alternative-to-polyester, four-ways styling, and the Aug 2026 "why it beats a fleece" buying guide). The 2026-08-04 draft *gilet vs body warmer* and the fleece-vs-gilet comparison inside the 2026-08-11 *what is a midlayer* draft both overlap the newest live post's angle. Review both.
+- **Two general care-guide hubs are live** (`a-guide-to-materials-care...` and `how-to-care-for-your-ghillie®-gear...`). The five per-garment care drafts are differentiated at the fabric level, but should internally link to and from these hubs rather than being published as orphans.
+
+### Other findings
+
+- **None of the 14 repo drafts are live.** The newest published post is 2026-08-04; every draft from 2026-08-04 onward exists only in this repo. The publishing step has never run.
+- **Two live slugs contain a literal `®`**, which serves as `%C2%AE` in the URL (`the-ghillie®-kit-list...`, `how-to-care-for-your-ghillie®-gear...`). Ugly in search results and when shared, and awkward to link to. Worth changing the handles to plain ASCII with redirects — an owner decision, not something to change unasked.
