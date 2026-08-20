@@ -141,3 +141,13 @@ For field-notes/2026-08-19-how-to-wash-a-down-jacket-the-corrie-care-guide/post.
 3. **In-body drying shot** — the Corrie Down Jacket laid flat with a couple of tennis balls or dryer balls beside it, or a shot suggesting mid-tumble-dry, to illustrate the drying step.
 
 creative/ folder checked again this run and is still empty — **fourteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-19)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Fourteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
+
+## Open requests (2026-08-20)
+
+For field-notes/2026-08-20-gilet-flannel-overshirt-sizing-guide/post.md:
+
+1. **Featured/header image** — flat-lay or hanging shot of the Torr Wool Gilet, a Brae or Munro Flannel Shirt, and the Hill Loch Shirt together, to give a visual sense of the three fits being compared. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — a man wearing the Torr Wool Gilet zipped over a flannel shirt, showing there's genuinely room for a layer underneath without it looking bulky.
+3. **In-body detail shot** — close-up of a Brae or Munro Flannel Shirt's cuff and shoulder seam, showing the generous cut across the chest and shoulders.
+
+creative/ folder checked again this run and is still empty — **fifteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-20)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Fifteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
