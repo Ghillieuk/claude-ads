@@ -151,3 +151,13 @@ For field-notes/2026-08-20-gilet-flannel-overshirt-sizing-guide/post.md:
 3. **In-body detail shot** — close-up of a Brae or Munro Flannel Shirt's cuff and shoulder seam, showing the generous cut across the chest and shoulders.
 
 creative/ folder checked again this run and is still empty — **fifteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-20)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Fifteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
+
+## Open requests (2026-08-21)
+
+For field-notes/2026-08-21-arkle-wool-jacket-buying-guide/post.md:
+
+1. **Featured/header image** — lifestyle shot of a man wearing the Arkle Wool Jacket buttoned up, outdoors in a British countryside setting with a farm shop, pub exterior or field gate visible in the background (mixed casual-to-smart context, since the post's whole hook is field-to-pub versatility). Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up of the Arkle Wool Jacket's horn-style buttons, pleated chest patch pocket and contrast brushed cotton inner neck.
+3. **In-body styling shot** — a man wearing the Arkle Wool Jacket open over a flannel shirt, hands in the waist pockets, in a pub or farm-shop doorway setting.
+
+creative/ folder checked again this run and is still empty — **sixteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-21)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Sixteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
