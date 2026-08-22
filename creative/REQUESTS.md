@@ -152,6 +152,16 @@ For field-notes/2026-08-20-gilet-flannel-overshirt-sizing-guide/post.md:
 
 creative/ folder checked again this run and is still empty — **fifteen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-20)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Fifteen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead).
 
+## Open requests (2026-08-22)
+
+For field-notes/2026-08-22-trucker-cap-vs-dad-cap-vs-canvas-cap-which-to-wear/post.md:
+
+1. **Featured/header image** — flat-lay or hanging shot showing one trucker cap (Original or Torrish), the Tarvie dad cap and a Rollock Canvas Cap together, to give a visual sense of the three constructions side by side. Landscape orientation for the blog header slot.
+2. **In-body detail shot** — close-up comparing the structured front panel/mesh back of a trucker cap against the soft, unstructured crown of the Tarvie dad cap, to illustrate the construction difference.
+3. **In-body lifestyle shot** — a man wearing the Rollock Canvas Cap outdoors on a mild, overcast day (farm track or field gate setting).
+
+creative/ folder checked again this run and is still empty — **seventeen consecutive runs now with zero uploaded photography (2026-08-04 through 2026-08-22)**. Every Field Notes draft to date has shipped with "CREATIVE NEEDED" placeholders only and none can go live as-is. Seventeen drafts are now blocked purely on real photography — this remains the single biggest blocker on the whole pipeline and needs direct owner action (upload to creative/, or confirm specific reusable on-site CDN image URLs this agent can cite instead). This run's post is a particularly good candidate to prioritise for photography since it needs only one new shot type not covered by prior requests (the three-cap-styles flat-lay) — the other two slots could potentially reuse existing product photography if the owner points this agent to the right CDN URLs.
+
 ## Open requests (2026-08-21)
 
 For field-notes/2026-08-21-arkle-wool-jacket-buying-guide/post.md:
